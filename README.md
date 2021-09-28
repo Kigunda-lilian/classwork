@@ -1,6 +1,7 @@
 <table>
 <tr>
-<th>NAME</th>
+<th><strong>NAME</strong></th>
 <th>AGE</th>
 <th>GENDER</th>
 </tr>
+<tr>
