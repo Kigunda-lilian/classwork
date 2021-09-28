@@ -19,3 +19,6 @@
 <td>23</td>
 <td>F</td>
 </tr>
+<img src="./img 1.jpg"></img>
+<img src="./img2.jpg"></img>
+<img src="./img3.jpg"></img>
